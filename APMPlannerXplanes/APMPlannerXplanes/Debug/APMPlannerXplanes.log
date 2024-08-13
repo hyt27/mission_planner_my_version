@@ -1,0 +1,13 @@
+﻿  AircraftUtils.cpp
+C:\Users\patty.hao\Documents\task6_MissionPlanner\MissionPlanner\APMPlannerXplanes\APMPlannerXplanes\AircraftUtils.h(1,10): error C1083: Cannot open include file: 'XPLMPlanes.h': No such file or directory
+  (compiling source file 'AircraftUtils.cpp')
+  
+  APMPlannerXplanes.cpp
+C:\Users\patty.hao\Documents\task6_MissionPlanner\MissionPlanner\APMPlannerXplanes\APMPlannerXplanes\APMPlannerXplanes.cpp(3,10): error C1083: Cannot open include file: 'XPLMDisplay.h': No such file or directory
+  AssemblyInfo.cpp
+C:\Users\patty.hao\Documents\task6_MissionPlanner\MissionPlanner\APMPlannerXplanes\APMPlannerXplanes\AssemblyInfo.cpp(39,46): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  C:\Users\patty.hao\Documents\task6_MissionPlanner\MissionPlanner\APMPlannerXplanes\APMPlannerXplanes\AssemblyInfo.cpp(39,46):
+  Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
